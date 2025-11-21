@@ -1,0 +1,10 @@
+⭐requirements
+
+```txt
+tensorflow
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
+jsonschema
